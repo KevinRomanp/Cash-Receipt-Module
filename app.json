@@ -1,0 +1,64 @@
+{
+  "id": "c8188b0f-e87d-4aa7-918d-9e9550377140",
+  "name": "Cash Receipt Module",
+  "publisher": "Kevin Roman",
+  "version": "1.0.0.71",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "dc9f2114-cdfc-4bde-8c06-ac259a176816",
+      "name": "Localization",
+      "publisher": "Kevin Roman",
+      "version": "1.1.1.49"
+    }
+    ,
+    {
+      "id": "40ff55d0-7214-4e06-9eb2-5b28b1f24476",
+      "publisher": "Kevin Roman",
+      "name": "DSPayroll",
+      "version": "22.0.1.10"
+    },
+    {
+      "id": "7166e110-ccb5-49eb-b455-a436d564f86a",
+      "publisher": "Kevin Roman",
+      "name": "DesarrollosBase",
+      "version": "1.0.0.108"
+    }
+    ,
+    {
+      "id": "8c619d74-dbda-44c5-8de5-07bc664d05d8",
+      "publisher": "Kevin Roman",
+      "name": "Facturacion Estaciones",
+      "version": "1.0.0.20"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 51100,
+      "to": 51149
+    }
+    ,
+    {
+      "from": 72000,
+      "to": 72050
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": false,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
